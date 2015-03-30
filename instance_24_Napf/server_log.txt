@@ -1,0 +1,28 @@
+10:16:48 BattlEye Server: Initialized (v1.194)
+10:16:48 Host identity created.
+10:37:08 BattlEye Server: Initialized (v1.195)
+10:37:08 Host identity created.
+10:37:41 Bryan uses modified data file
+10:37:41 BattlEye Server: Player #0 Bryan (10.0.0.25:2304) connected
+10:37:41 Player Bryan connecting.
+10:37:41 Mission DayZ Epoch Napf read from directory.
+10:37:42 BattlEye Server: Player #0 Bryan - GUID: 1dbc8cea7c3d085621e86bc084ea9432 (unverified)
+10:37:42 Player Bryan connected (id=76561198099059601).
+10:37:42 BattlEye Server: Verified GUID (1dbc8cea7c3d085621e86bc084ea9432) of player #0 Bryan
+10:37:43 BattlEye Server: Player #0 Bryan - Legacy GUID: f8e8b92217b8804e1b25eb6fe3c0f138
+10:37:45 Roles assigned.
+10:37:45 Reading mission ...
+10:37:50 Mission read.
+10:38:07 Game started.
+10:45:05 Player Bryan disconnected.
+10:45:05 BattlEye Server: Player #0 Bryan disconnected
+10:49:48 BattlEye Server: Initialized (v1.195)
+10:49:48 Host identity created.
+10:50:42 BattlEye Server: Initialized (v1.195)
+10:50:42 Host identity created.
+10:51:43 BattlEye Server: Initialized (v1.195)
+10:51:43 Host identity created.
+10:52:53 BattlEye Server: Initialized (v1.195)
+10:52:53 Host identity created.
+10:54:12 BattlEye Server: Initialized (v1.195)
+10:54:12 Host identity created.
